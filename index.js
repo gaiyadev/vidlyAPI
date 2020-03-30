@@ -65,8 +65,6 @@ app.put('/api/genre/:id', (req, res) => {
     }
     movie.genre = req.body.genre;
     res.send(genre);
-
-
 });
 
 
@@ -77,13 +75,10 @@ app.delete('/api/genres/:id', (req, res) => {
     const index = movies.indexOf(movie);
     movies.splice(index, 1);
     res.send(movie);
-
 });
 
 if (app.get('env') === 'development') {
     startUpDebugger('this is a debug...');
-
-
 }
 
 dbDebugger('connected to db');

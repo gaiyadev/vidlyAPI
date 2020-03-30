@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d1a5202-c4a9-4abc-b808-7529f7e8c0f7" name="Default Changelist" comment="" />
+    <list default="true" id="8d1a5202-c4a9-4abc-b808-7529f7e8c0f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YFd64iz1l9hf9PY2ZzLjNTtyZO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,7 +67,8 @@
       <workItem from="1582573331052" duration="1940000" />
       <workItem from="1582811010016" duration="761000" />
       <workItem from="1582952651367" duration="82000" />
-      <workItem from="1585579084402" duration="57000" />
+      <workItem from="1585579084402" duration="282000" />
+      <workItem from="1585589597149" duration="330000" />
     </task>
     <servers />
   </component>
