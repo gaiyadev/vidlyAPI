@@ -1,0 +1,6 @@
+{
+  "name": "my exprees App",
+  "mail": {
+    "host": "prod-mail server"
+  }
+}
